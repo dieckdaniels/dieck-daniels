@@ -1,0 +1,327 @@
+!
+<section class="menu">
+ <div class="lado">
+    <div class="item">
+      <h2>Suco de polpa</h2>
+
+      <img src="pol.jpg" alt="pol.jpeg" style="width: 300px; border-radius: 15px;">
+      <p class="preco">Suco de polpa 300ML R$10,00 (Consultar Sabores)</p>
+      <p class="preco"></p>
+    </div>
+
+<div class="lado">
+     <div class="item">
+      <h2>Fanta Laranja 350ML</h2>
+
+      <img src="LARA.jpg" alt="LARA.jpg" style="width: 250px; border-radius: 15px;">
+      <p class="preco"> Fanta Laranja 350ML R$6,00 </p>
+      <p class="preco"></p>
+    </div>
+     
+     
+    
+     <div class="item">
+      <h2>Guaraná Antarctica 350ML</h2>
+
+      <img src="GUARA.jpg" alt="" style="width: 230px; border-radius: 15px;">
+      <p class="preco"> Guaraná Antarctica 350M R$6,00 </p>
+      <p class="preco"></p>
+    </div>
+     
+</div>
+
+
+ 
+    <div class="item">
+      <h2>Coca em lata 350ML</h2>
+
+      <img src="INA.jpg" alt="" style="width: 200px; border-radius: 15px;">
+      <p class="preco"> coca em lata 350ML R$6,00</p>
+      <p class="preco"></p>
+    </div>
+
+
+
+
+     <div class="item">
+      <h2>Itubaina 350ML</h2>
+
+      <img src="itub.jpg" alt="itub.jpg" style="width: 350px; border-radius: 15px;">
+      <p class="preco"> Itubaina 350ML R$6,00</p>
+      <p class="preco"></p>
+    </div>
+     
+
+</div>
+<div class="lado"> 
+     <div class="item">
+      <h2>Ponchitos Frutas Cítricas</h2>
+
+      <img src="ponchi.jpg" alt="ponchi.jpg" style="width: 240px; border-radius: 15px;">
+      <p class="preco"> ponchitos Frutas Cítricas R$4,00 </p>
+      <p class="preco"></p>
+
+
+    </div>
+
+
+     <div class="item">
+      <h2>Red Bull</h2>
+
+      <img src="RED.jpg" alt="RED.jpg" style="width: 250px; border-radius: 15px;">
+      <p class="preco"> Red Bull R$10,00 </p>
+      <p class="preco"></p>
+    </div>
+     
+
+
+
+
+     <div class="item">
+      <h2>Garaviton Açai</h2>
+
+      <img src="VITON.jpg" alt="VITON.jpg" style="width: 300px; border-radius: 15px;">
+      <p class="preco"> Guaraviton Açaí R$4,00 </p>
+      <p class="preco"></p>
+    </div>
+
+
+
+
+
+    <div class="item">
+      <h2>Água sem Gás 500ML</h2>
+
+      <img src="SEMGG.jpg" alt="SEMGG.jpg" style="width: 350px; border-radius: 15px;">
+      <p class="preco"> Água sem Gás 500ML R$2,00</p>
+      <p class="preco"></p>
+    </div>
+
+
+</div>  
+<div class="lado">
+    <div class="item">
+      <h2>Água com Gás 500ML</h2>
+
+      <img src="GAS.jpg" alt="GAS.jpg" style="width: 350px; border-radius: 15px;">
+      <p class="preco"> Água com Gás 500ML R$3,00</p>
+      <p class="preco"></p>
+    </div>
+     
+     
+
+
+
+<div>  
+<div class="lado">
+    <div class="item">
+      <h2>Fanta laranja 2L</h2>
+
+      <img src="l2l.jpg" alt="l2l.jpg" style="width: 300px; border-radius: 15px;">
+      <p class="preco"> Fanta laranja 2L R$10,00 </p>
+      <p class="preco"></p>
+    </div>
+     
+     
+
+
+
+
+    <div class="item">
+      <h2>Guaraná Antarctica 2L</h2>
+
+      <img src="2L.jpg" alt="" style="width: 300px; border-radius: 15px;">
+      <p class="preco">  Guaraná Antarctica R$10,00</p>
+      <p class="preco"></p>
+    </div>
+     
+</div>
+     
+
+
+<div class="lado">
+
+    <div class="item">
+      <h2>Soda Limão 2L</h2>
+
+      <img src="soo.jpg" alt="soo.jpg" style="width: 220px; border-radius: 15px;">
+      <p class="preco"> Soda Limão 2L R$10,00 </p>
+      <p class="preco"></p>
+    </div>
+     
+   
+
+
+    <div class="item"> 
+      <h2>Coca cola 2L</h2>
+
+      <img src="C2L.jpg" alt="C2L.jpg" style="width: 270px; border-radius: 10px;">
+      <p class="preco">  Coca Cola 2L R$12,00 </p>
+      <p class="preco"></p>
+    </div> 
+    
+
+lkkkkkkkkk
+
+
+ <section class="menu">
+ <div class="lado">
+    <div class="item">
+      <h2>Suco de polpa</h2>
+
+      <img src="pol.jpg" alt="pol.jpeg" style="width: 300px; border-radius: 15px;">
+      <p class="preco">Suco de polpa 300ML R$10,00 (Consultar Sabores)</p>
+      <p class="preco"></p>
+    </div>
+
+<div class="lado">
+     <div class="item">
+      <h2>Fanta Laranja 350ML</h2>
+
+      <img src="LARA.jpg" alt="LARA.jpg" style="width: 250px; border-radius: 15px;">
+      <p class="preco"> Fanta Laranja 350ML R$6,00 </p>
+      <p class="preco"></p>
+    </div>
+     
+     
+    
+     <div class="item">
+      <h2>Guaraná Antarctica 350ML</h2>
+
+      <img src="GUARA.jpg" alt="" style="width: 230px; border-radius: 15px;">
+      <p class="preco"> Guaraná Antarctica 350M R$6,00 </p>
+      <p class="preco"></p>
+    </div>
+     
+</div>
+
+
+ 
+    <div class="item">
+      <h2>Coca em lata 350ML</h2>
+
+      <img src="INA.jpg" alt="" style="width: 200px; border-radius: 15px;">
+      <p class="preco"> coca em lata 350ML R$6,00</p>
+      <p class="preco"></p>
+    </div>
+
+
+
+
+     <div class="item">
+      <h2>Itubaina 350ML</h2>
+
+      <img src="itub.jpg" alt="itub.jpg" style="width: 350px; border-radius: 15px;">
+      <p class="preco"> Itubaina 350ML R$6,00</p>
+      <p class="preco"></p>
+    </div>
+     
+
+</div>
+<div class="lado"> 
+     <div class="item">
+      <h2>Ponchitos Frutas Cítricas</h2>
+
+      <img src="ponchi.jpg" alt="ponchi.jpg" style="width: 240px; border-radius: 15px;">
+      <p class="preco"> ponchitos Frutas Cítricas R$4,00 </p>
+      <p class="preco"></p>
+
+
+    </div>
+
+
+     <div class="item">
+      <h2>Red Bull</h2>
+
+      <img src="RED.jpg" alt="RED.jpg" style="width: 250px; border-radius: 15px;">
+      <p class="preco"> Red Bull R$10,00 </p>
+      <p class="preco"></p>
+    </div>
+     
+
+
+
+
+     <div class="item">
+      <h2>Garaviton Açai</h2>
+
+      <img src="VITON.jpg" alt="VITON.jpg" style="width: 300px; border-radius: 15px;">
+      <p class="preco"> Guaraviton Açaí R$4,00 </p>
+      <p class="preco"></p>
+    </div>
+
+
+
+
+
+    <div class="item">
+      <h2>Água sem Gás 500ML</h2>
+
+      <img src="SEMGG.jpg" alt="SEMGG.jpg" style="width: 350px; border-radius: 15px;">
+      <p class="preco"> Água sem Gás 500ML R$2,00</p>
+      <p class="preco"></p>
+    </div>
+
+
+</div>  
+<div class="lado">
+    <div class="item">
+      <h2>Água com Gás 500ML</h2>
+
+      <img src="GAS.jpg" alt="GAS.jpg" style="width: 350px; border-radius: 15px;">
+      <p class="preco"> Água com Gás 500ML R$3,00</p>
+      <p class="preco"></p>
+    </div>
+     
+     
+
+
+
+<div>  
+<div class="lado">
+    <div class="item">
+      <h2>Fanta laranja 2L</h2>
+
+      <img src="l2l.jpg" alt="l2l.jpg" style="width: 300px; border-radius: 15px;">
+      <p class="preco"> Fanta laranja 2L R$10,00 </p>
+      <p class="preco"></p>
+    </div>
+     
+     
+
+
+
+
+    <div class="item">
+      <h2>Guaraná Antarctica 2L</h2>
+
+      <img src="2L.jpg" alt="" style="width: 300px; border-radius: 15px;">
+      <p class="preco">  Guaraná Antarctica R$10,00</p>
+      <p class="preco"></p>
+    </div>
+     
+</div>
+     
+
+
+<div class="lado">
+
+    <div class="item">
+      <h2>Soda Limão 2L</h2>
+
+      <img src="soo.jpg" alt="soo.jpg" style="width: 220px; border-radius: 15px;">
+      <p class="preco"> Soda Limão 2L R$10,00 </p>
+      <p class="preco"></p>
+    </div>
+     
+   
+
+
+    <div class="item"> 
+      <h2>Coca cola 2L</h2>
+
+      <img src="C2L.jpg" alt="C2L.jpg" style="width: 270px; border-radius: 10px;">
+      <p class="preco">  Coca Cola 2L R$12,00 </p>
+      <p class="preco"></p>
+    </div> 
+    

@@ -4,6 +4,11 @@
       --roxo-escuro: #1a1120;
     }
 
+
+    
+
+
+
     body {
       margin: 0;
       font-family: Arial, sans-serif;
@@ -83,4 +88,43 @@ body{
 }
 
 
+ body {
+      font-family: Arial, sans-serif;
+    }
 
+    .menu {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+      padding: 20px;
+    }
+
+    .item {
+      width: 30%;
+      min-width: 250px;
+      box-sizing: border-box;
+      text-align: center;
+      background-color: #853f2a;
+      padding: 15px;
+      border-radius: 10px;
+      box-shadow: 0 0 5px rgba(255, 255, 255, 0.1);
+    }
+
+    .item img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 15px;
+    }
+
+    .preco {
+      font-weight: bold;
+      color: #ffffff;
+      margin-top: 10px;
+    }
+
+    
+    
+    
+
+    
